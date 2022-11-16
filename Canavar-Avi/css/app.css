@@ -3,11 +3,11 @@
 }
 
 .healthbar {
-    width: 80%;
+    width: 100%;
     height: 40px;
     background-color: #eee;
     margin: auto;
-    transition: width 500ms;
+    transition: width 1000ms;
 }
 
 .controls, .log {
